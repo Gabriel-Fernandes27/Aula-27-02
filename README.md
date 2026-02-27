@@ -2,3 +2,6 @@
 Criando o 1° Repositorio
 
 ### Está e a primeira aula mostra como criar o primeiro repositorio e também fazer o commit.
+
+### Autor : Gabriel C. Fernandes
+
